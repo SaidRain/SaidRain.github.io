@@ -12,6 +12,12 @@
     
     
     
+    <tags>
+      
+      <tag>肇</tag>
+      
+    </tags>
+    
   </entry>
   
   
@@ -24,12 +30,12 @@
     <content type="html"><![CDATA[<p>幸幸苦苦搭了个博客，总是要写些东西的</p><p>或许是随笔</p><p>或许是技术类的东西</p><p>……</p><p>谁知道每天在想什么呢？</p><p><em><u>关于访问litten.me的bug已经修复</u></em></p><p><em><u>但可能由于网站统计进站人次，又使网站的加载变慢了</u></em></p><p><em><u>mmp</u></em></p>]]></content>
     
     
-    <categories>
-      
-      <category>肇</category>
-      
-    </categories>
     
+    <tags>
+      
+      <tag>肇</tag>
+      
+    </tags>
     
   </entry>
   
@@ -43,6 +49,12 @@
     <content type="html"><![CDATA[<p>摸鱼半天，总算半优化好了网站<br><br><br><br>网站使用了yilia主题，可惜作者已很长时间不更新，连作者本人的博客域名都被劫持了<br><br><br><br>而主题中有一js文件访问litten.me（作者博客）以获取某些数据，所以网页左端一直转圈<br><br><br><br>强迫症狂怒……</p>]]></content>
     
     
+    
+    <tags>
+      
+      <tag>肇</tag>
+      
+    </tags>
     
   </entry>
   
